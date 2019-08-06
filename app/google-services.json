@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142855905795",
+    "firebase_url": "https://biztaker-c5cdd.firebaseio.com",
+    "project_id": "biztaker-c5cdd",
+    "storage_bucket": "biztaker-c5cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142855905795:android:31115730f714f5cb",
+        "android_client_info": {
+          "package_name": "biz.biztaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142855905795-28t8er0no85kui91msov9l02f812b226.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.biztaker",
+            "certificate_hash": "fdea0eb6ed372010d82757681b84882dd89ab6fc"
+          }
+        },
+        {
+          "client_id": "142855905795-dq0ma09chmf8ole0gscf60i6qtmgjbh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwYHvNUGmqCkEemI7Q5QIt6LAXChdc8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142855905795-dq0ma09chmf8ole0gscf60i6qtmgjbh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
